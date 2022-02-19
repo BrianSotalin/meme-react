@@ -64,7 +64,10 @@ button:hover{
 }
 #memecito{
   margin: -2px auto;
-  background: #282c34;
+  background: transparent;
+  width: 40%;
+  padding: 0px auto;
+  border-radius:20px ;
 }
 .span1{
   position: absolute;
@@ -121,6 +124,36 @@ img{
 /* 
 RESPONSIVE
 */
+@media screen and (max-width:1200px) {
+  #memecito{
+    width: 50%;
+  }
+}
+@media screen and (max-width:1020px) {
+  #memecito{
+    width: 55%;
+  }
+}
+@media screen and (max-width:930px) {
+  #memecito{
+    width: 60%;
+  }
+}
+@media screen and (max-width:835px) {
+  #memecito{
+    width: 70%;
+  }
+}
+@media screen and (max-width:720px) {
+  #memecito{
+    width: 80%;
+  }
+}
+@media screen and (max-width:620px) {
+  #memecito{
+    width: 97%;
+  }
+}
 @media screen and (max-width:530px) {
   .span1{
     margin: 40px auto;
