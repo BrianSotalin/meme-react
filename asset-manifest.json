@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/BrianSotalin/meme-react/static/css/main.f3c0bf38.css",
-    "main.js": "/BrianSotalin/meme-react/static/js/main.5225e051.js",
-    "static/js/787.7f67bd15.chunk.js": "/BrianSotalin/meme-react/static/js/787.7f67bd15.chunk.js",
-    "index.html": "/BrianSotalin/meme-react/index.html",
-    "main.f3c0bf38.css.map": "/BrianSotalin/meme-react/static/css/main.f3c0bf38.css.map",
-    "main.5225e051.js.map": "/BrianSotalin/meme-react/static/js/main.5225e051.js.map",
-    "787.7f67bd15.chunk.js.map": "/BrianSotalin/meme-react/static/js/787.7f67bd15.chunk.js.map"
+    "main.css": "/meme-react/static/css/main.f3c0bf38.css",
+    "main.js": "/meme-react/static/js/main.b50eefbc.js",
+    "static/js/787.7f67bd15.chunk.js": "/meme-react/static/js/787.7f67bd15.chunk.js",
+    "index.html": "/meme-react/index.html",
+    "main.f3c0bf38.css.map": "/meme-react/static/css/main.f3c0bf38.css.map",
+    "main.b50eefbc.js.map": "/meme-react/static/js/main.b50eefbc.js.map",
+    "787.7f67bd15.chunk.js.map": "/meme-react/static/js/787.7f67bd15.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f3c0bf38.css",
-    "static/js/main.5225e051.js"
+    "static/js/main.b50eefbc.js"
   ]
 }
