@@ -64,7 +64,8 @@ button:hover{
 }
 #memecito{
   margin: -2px auto;
-  background: #282c34;
+  background: red;
+  width: 80%;
 }
 .span1{
   position: absolute;
